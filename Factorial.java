@@ -1,5 +1,6 @@
 /**
 *         Calcula el valor de un factorial.
+*         Cambiado
 */
  
 public class Factorial {
